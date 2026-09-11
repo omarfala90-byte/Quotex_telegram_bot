@@ -1,1 +1,0 @@
-# Quotex_telegram_bot
